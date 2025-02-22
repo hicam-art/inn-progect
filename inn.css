@@ -1,12 +1,12 @@
 .container{
      background-color: rgba(10, 102, 221, 0.281);
     width: 100%;
-    height:120vh;
+    height:100%;
   
    
 }
 .col{
-   
+   margin-top: 5vh;
     width: 100%;
     height: 82vh;
 }
@@ -14,7 +14,7 @@
 
     width: 100%;
     height: 50vh;
-    margin-top: -55vh;
+    margin-top: -65vh;
 }
 .c{
 
@@ -23,6 +23,7 @@
     margin-top: -32vh;
 }
 .meni{
+   
     width: 100%;
     height: 8vh;
     background-color: rgba(10, 102, 221, 0.281);
@@ -42,6 +43,38 @@
     margin-top: -2px;
 }
 .im4 h1{
+    font-size: 70%;
+    margin-top: -2px;
+}
+.im5 h1{
+    font-size: 70%;
+    margin-top: -2px;
+}
+.im6 h1{
+    font-size: 70%;
+    margin-top: -2px;
+}
+.im7 h1{
+    font-size: 70%;
+    margin-top: -2px;
+}
+.im8 h1{
+    font-size: 70%;
+    margin-top: -2px;
+}
+.im9 h1{
+    font-size: 70%;
+    margin-top: -2px;
+}
+.im10 h1{
+    font-size: 70%;
+    margin-top: -2px;
+}
+.im11 h1{
+    font-size: 70%;
+    margin-top: -2px;
+}
+.im12 h1{
     font-size: 70%;
     margin-top: -2px;
 }
@@ -92,6 +125,98 @@ filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
     transition: 0.2s;
     filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
 }
+.im5{
+    background-color: rgba(10, 102, 221, 0.281);
+    width: 10vw;
+    height: 10vh;
+    position: absolute;
+    margin-top: 5vh;
+    margin-left: 10vw;
+    border-radius: 5px;
+transition: 0.2s;
+filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+}
+.im6{
+    background-color: rgba(10, 102, 221, 0.281);
+    width: 10vw;
+    height: 10vh;
+    position: absolute;
+    margin-top: 5vh;
+    margin-left: 30vw;
+    border-radius: 5px;
+    transition: 0.2s;
+    filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+
+}
+.im7{
+    background-color:  rgba(10, 102, 221, 0.281);
+    width: 10vw;
+    height: 10vh;
+    position: absolute;
+    margin-top: 5vh;
+    margin-left: 50vw;
+    border-radius: 5px;
+    transition: 0.2s;
+    filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+
+}
+.im8{
+    background-color:  rgba(10, 102, 221, 0.281);
+    width: 10vw;
+    height: 10vh;
+    position: absolute;
+    margin-top: 5vh;
+    margin-left: 70vw;
+    border-radius: 5px;
+    transition: 0.2s;
+    filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+}
+.im9{
+    background-color: rgba(10, 102, 221, 0.281);
+    width: 10vw;
+    height: 10vh;
+    position: absolute;
+    margin-top: 5vh;
+    margin-left: 10vw;
+    border-radius: 5px;
+transition: 0.2s;
+filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+}
+.im10{
+    background-color: rgba(10, 102, 221, 0.281);
+    width: 10vw;
+    height: 10vh;
+    position: absolute;
+    margin-top: 5vh;
+    margin-left: 30vw;
+    border-radius: 5px;
+    transition: 0.2s;
+    filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+
+}
+.im11{
+    background-color:  rgba(10, 102, 221, 0.281);
+    width: 10vw;
+    height: 10vh;
+    position: absolute;
+    margin-top: 5vh;
+    margin-left: 50vw;
+    border-radius: 5px;
+    transition: 0.2s;
+    filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+
+}
+.im12{
+    background-color:  rgba(10, 102, 221, 0.281);
+    width: 10vw;
+    height: 10vh;
+    position: absolute;
+    margin-top: 5vh;
+    margin-left: 70vw;
+    border-radius: 5px;
+    transition: 0.2s;
+    filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+}
 .im1:hover{
     margin-top: 2vh;
 margin-left: 8vw;
@@ -117,6 +242,56 @@ margin-left: 68vw;
     width:15vw ;
     height:15vh ;
 }
+.im5:hover{
+    margin-top: 2vh;
+margin-left: 8vw;
+    width:15vw ;
+    height:15vh ;
+
+}
+.im6:hover{
+    margin-top: 2vh;
+margin-left: 28vw;
+    width:15vw ;
+    height:15vh ;
+}
+.im7:hover{
+    margin-top: 2vh;
+margin-left: 48vw;
+    width:15vw ;
+    height:15vh ;
+}
+.im8:hover{
+    margin-top: 2vh;
+margin-left: 68vw;
+    width:15vw ;
+    height:15vh ;
+}
+.im9:hover{
+    margin-top: 2vh;
+margin-left: 8vw;
+    width:15vw ;
+    height:15vh ;
+
+}
+.im10:hover{
+    margin-top: 2vh;
+margin-left: 28vw;
+    width:15vw ;
+    height:15vh ;
+}
+.im11:hover{
+    margin-top: 2vh;
+margin-left: 48vw;
+    width:15vw ;
+    height:15vh ;
+}
+.im12:hover{
+    margin-top: 2vh;
+margin-left: 68vw;
+    width:15vw ;
+    height:15vh ;
+}
 
 img{
     width: inherit;
@@ -124,75 +299,228 @@ img{
     border-radius: inherit;
 }
 @media(max-width:600px){
+    .container{
+       
+        background-color: rgba(54, 126, 221, 0.527);
+       width: 100%;
+       height:135vh; 
+    
+      
+   }
+
     .im1{
+        position: relative;
         background-color: antiquewhite;
-        width: 10vw;
-        height: 10vh;
+        width: 25vw;
+        height: 13vh;
         position: absolute;
-        margin-top: 3vh;
-        margin-left: 25vw;
+        margin-top: 2vh;
+        margin-left: 15vw;
         border-radius: 5px;
     transition: 0.2s;
-    font-size: 70%;
+    font-size: 80%;
     }
     .im2{
         background-color: antiquewhite;
-        width: 10vw;
-        height: 10vh;
+        width: 25vw;
+        height: 13vh;
         position: absolute;
-        margin-top: 3vh;
-        margin-left: 55vw;
+        margin-top: 2vh;
+        margin-left: 50vw;
         border-radius: 5px;
         transition: 0.2s;
-        font-size: 70%;
+        font-size: 80%;
     
     }
     .im3{
         background-color: antiquewhite;
-        width: 10vw;
-        height: 10vh;
+        width: 25vw;
+        height: 13vh;
         position: absolute;
-        margin-top: 55vh;
-        margin-left: 25vw;
+        margin-top: 23vh;
+        margin-left: 15vw;
         border-radius: 5px;
         transition: 0.2s;
-        font-size: 70%;
+        font-size: 80%;
     
     }
     .im4{
         background-color: antiquewhite;
-        width: 10vw;
-        height: 10vh;
+        width: 25vw;
+        height: 13vh;
         position: absolute;
-        margin-top: 55vh;
-        margin-left:55vw;
+        margin-top: 23vh;
+        margin-left:50vw;
         border-radius: 5px;
         transition: 0.2s;
-        font-size: 70%;
+        font-size: 80%;
     } 
+    .im5{
+        background-color: antiquewhite;
+        width: 25vw;
+        height: 13vh;
+        position: absolute;
+        margin-top: 28vh;
+        margin-left:15vw;
+        border-radius: 5px;
+        transition: 0.2s;
+        font-size: 80%;
+    }
+    .im6{
+        background-color: antiquewhite;
+        width: 25vw;
+        height: 13vh;
+        position: absolute;
+        margin-top: 28vh;
+        margin-left:50vw;
+        border-radius: 5px;
+        transition: 0.2s;
+        font-size: 80%;
+    
+    }
+    .im7{
+        background-color: antiquewhite;
+        width: 25vw;
+        height: 13vh;
+        position: absolute;
+        margin-top: 48vh;
+        margin-left:15vw;
+        border-radius: 5px;
+        transition: 0.2s;
+        font-size: 80%;
+    
+    }
+    .im8{
+        background-color: antiquewhite;
+        width: 25vw;
+        height: 13vh;
+        position: absolute;
+        margin-top: 48vh;
+        margin-left:50vw;
+        border-radius: 5px;
+        transition: 0.2s;
+        font-size: 80%;
+    }
+    .im9{
+        background-color: antiquewhite;
+        width: 25vw;
+        height: 13vh;
+        position: absolute;
+        margin-top: 50vh;
+        margin-left:15vw;
+        border-radius: 5px;
+        transition: 0.2s;
+        font-size: 80%;
+    }
+    .im10{
+        background-color: antiquewhite;
+        width: 25vw;
+        height: 13vh;
+        position: absolute;
+        margin-top: 50vh;
+        margin-left:50vw;
+        border-radius: 5px;
+        transition: 0.2s;
+        font-size: 80%;
+    
+    }
+    .im11{
+        background-color: antiquewhite;
+        width: 25vw;
+        height: 13vh;
+        position: absolute;
+        margin-top: 70vh;
+        margin-left:15vw;
+        border-radius: 5px;
+        transition: 0.2s;
+        font-size: 80%;
+    
+    }
+    .im12{
+        background-color: antiquewhite;
+        width: 25vw;
+        height: 13vh;
+        position: absolute;
+        margin-top: 70vh;
+        margin-left:50vw;
+        border-radius: 5px;
+        transition: 0.2s;
+        font-size: 80%;
+       
+    }
     .im1:hover{
-        margin-top: 1vh;
-    margin-left: 23vw;
-        width:15vw ;
-        height:15vh ;
+        margin-top: 2vh;
+    margin-left: 15vw;
+        width:26vw ;
+        height:14vh ;
     }
     .im2:hover{
         margin-top: 2vh;
-    margin-left: 52vw;
-        width:15vw ;
-        height:15vh ;
+    margin-left: 50vw;
+        width:26vw ;
+        height:14vh ;
     }
     .im3:hover{
-        margin-top: 55vh;
-    margin-left: 23vw;
-        width:15vw ;
-        height:15vh ;
+        margin-top: 23vh;
+    margin-left: 15vw;
+        width:26vw ;
+        height:14vh ;
     }
     .im4:hover{
-        margin-top: 55vh;
-    margin-left: 52vw;
-        width:15vw ;
+        margin-top: 23vh;
+    margin-left: 50vw;
+        width:26vw ;
+        height:14vh ;
+    }
+    .im5:hover{
+        margin-top: 28vh;
+    margin-left: 15vw;
+        width:26vw ;
+        height:14vh ;
+    
+    }
+    .im6:hover{
+        margin-top: 28vh;
+    margin-left: 50vw;
+        width:26vw ;
+        height:14vh ;
+    }
+    .im7:hover{
+        margin-top: 48vh;
+    margin-left: 15vw;
+        width:26vw ;
         height:15vh ;
+    }
+    .im8:hover{
+        margin-top: 48vh;
+    margin-left: 50vw;
+        width:26vw ;
+        height:14vh ;
+    }
+    .im9:hover{
+        margin-top: 50vh;
+    margin-left: 15vw;
+        width:26vw ;
+        height:14vh ;
+    
+    }
+    .im10:hover{
+        margin-top: 50vh;
+    margin-left: 50vw;
+        width:26vw ;
+        height:14vh ;
+    }
+    .im11:hover{
+        margin-top: 70vh;
+    margin-left: 15vw;
+        width:26vw ;
+        height:14vh ;
+    }
+    .im12:hover{
+        margin-top: 70vh;
+    margin-left: 50vw;
+        width:26vw ;
+        height:14vh ;
     }
     .col{
    
