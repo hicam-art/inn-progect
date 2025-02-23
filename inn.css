@@ -1,5 +1,5 @@
 .container{
-     background-color: rgba(10, 102, 221, 0.281);
+    background-color: rgba(180, 182, 184, 0.295);
     width: 100%;
     height:100%;
   
@@ -26,7 +26,7 @@
    
     width: 100%;
     height: 8vh;
-    background-color: rgba(10, 102, 221, 0.281);
+    background-color: rgba(107, 133, 145, 0.596);
    
 }
 
@@ -80,7 +80,7 @@
 }
 
 .im1{
-    background-color: rgba(10, 102, 221, 0.281);
+    
     width: 10vw;
     height: 10vh;
     position: absolute;
@@ -88,10 +88,10 @@
     margin-left: 10vw;
     border-radius: 5px;
 transition: 0.2s;
-filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
 }
 .im2{
-    background-color: rgba(10, 102, 221, 0.281);
+  
     width: 10vw;
     height: 10vh;
     position: absolute;
@@ -99,11 +99,10 @@ filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
     margin-left: 30vw;
     border-radius: 5px;
     transition: 0.2s;
-    filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
-
+    filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
 }
 .im3{
-    background-color:  rgba(10, 102, 221, 0.281);
+
     width: 10vw;
     height: 10vh;
     position: absolute;
@@ -111,11 +110,11 @@ filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
     margin-left: 50vw;
     border-radius: 5px;
     transition: 0.2s;
-    filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+    filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
 
 }
 .im4{
-    background-color:  rgba(10, 102, 221, 0.281);
+
     width: 10vw;
     height: 10vh;
     position: absolute;
@@ -123,10 +122,10 @@ filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
     margin-left: 70vw;
     border-radius: 5px;
     transition: 0.2s;
-    filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+    filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
 }
 .im5{
-    background-color: rgba(10, 102, 221, 0.281);
+    filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
     width: 10vw;
     height: 10vh;
     position: absolute;
@@ -134,10 +133,10 @@ filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
     margin-left: 10vw;
     border-radius: 5px;
 transition: 0.2s;
-filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+
 }
 .im6{
-    background-color: rgba(10, 102, 221, 0.281);
+  
     width: 10vw;
     height: 10vh;
     position: absolute;
@@ -145,11 +144,11 @@ filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
     margin-left: 30vw;
     border-radius: 5px;
     transition: 0.2s;
-    filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+    filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
 
 }
 .im7{
-    background-color:  rgba(10, 102, 221, 0.281);
+    filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
     width: 10vw;
     height: 10vh;
     position: absolute;
@@ -157,11 +156,11 @@ filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
     margin-left: 50vw;
     border-radius: 5px;
     transition: 0.2s;
-    filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+   
 
 }
 .im8{
-    background-color:  rgba(10, 102, 221, 0.281);
+   
     width: 10vw;
     height: 10vh;
     position: absolute;
@@ -169,10 +168,10 @@ filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
     margin-left: 70vw;
     border-radius: 5px;
     transition: 0.2s;
-    filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+    filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
 }
 .im9{
-    background-color: rgba(10, 102, 221, 0.281);
+  
     width: 10vw;
     height: 10vh;
     position: absolute;
@@ -180,10 +179,10 @@ filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
     margin-left: 10vw;
     border-radius: 5px;
 transition: 0.2s;
-filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
 }
 .im10{
-    background-color: rgba(10, 102, 221, 0.281);
+   
     width: 10vw;
     height: 10vh;
     position: absolute;
@@ -191,11 +190,10 @@ filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
     margin-left: 30vw;
     border-radius: 5px;
     transition: 0.2s;
-    filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
-
+    filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
 }
 .im11{
-    background-color:  rgba(10, 102, 221, 0.281);
+ 
     width: 10vw;
     height: 10vh;
     position: absolute;
@@ -203,11 +201,11 @@ filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
     margin-left: 50vw;
     border-radius: 5px;
     transition: 0.2s;
-    filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+    filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
 
 }
 .im12{
-    background-color:  rgba(10, 102, 221, 0.281);
+   
     width: 10vw;
     height: 10vh;
     position: absolute;
@@ -215,7 +213,7 @@ filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
     margin-left: 70vw;
     border-radius: 5px;
     transition: 0.2s;
-    filter: drop-shadow( 0px 0px 5px rgb(10, 101, 221));
+    filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
 }
 .im1:hover{
     margin-top: 2vh;
@@ -301,7 +299,7 @@ img{
 @media(max-width:600px){
     .container{
        
-        background-color: rgba(54, 126, 221, 0.527);
+        background-color: rgba(180, 182, 184, 0.295);
        width: 100%;
        height:135vh; 
     
@@ -310,7 +308,7 @@ img{
 
     .im1{
         position: relative;
-        background-color: antiquewhite;
+        filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
         width: 25vw;
         height: 13vh;
         position: absolute;
@@ -321,7 +319,7 @@ img{
     font-size: 80%;
     }
     .im2{
-        background-color: antiquewhite;
+        filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
         width: 25vw;
         height: 13vh;
         position: absolute;
@@ -333,7 +331,7 @@ img{
     
     }
     .im3{
-        background-color: antiquewhite;
+        filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
         width: 25vw;
         height: 13vh;
         position: absolute;
@@ -345,7 +343,7 @@ img{
     
     }
     .im4{
-        background-color: antiquewhite;
+        filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
         width: 25vw;
         height: 13vh;
         position: absolute;
@@ -356,7 +354,7 @@ img{
         font-size: 80%;
     } 
     .im5{
-        background-color: antiquewhite;
+        filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
         width: 25vw;
         height: 13vh;
         position: absolute;
@@ -367,7 +365,7 @@ img{
         font-size: 80%;
     }
     .im6{
-        background-color: antiquewhite;
+         filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
         width: 25vw;
         height: 13vh;
         position: absolute;
@@ -379,7 +377,7 @@ img{
     
     }
     .im7{
-        background-color: antiquewhite;
+         filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
         width: 25vw;
         height: 13vh;
         position: absolute;
@@ -391,7 +389,7 @@ img{
     
     }
     .im8{
-        background-color: antiquewhite;
+         filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
         width: 25vw;
         height: 13vh;
         position: absolute;
@@ -402,7 +400,7 @@ img{
         font-size: 80%;
     }
     .im9{
-        background-color: antiquewhite;
+         filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
         width: 25vw;
         height: 13vh;
         position: absolute;
@@ -413,7 +411,7 @@ img{
         font-size: 80%;
     }
     .im10{
-        background-color: antiquewhite;
+         filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
         width: 25vw;
         height: 13vh;
         position: absolute;
@@ -425,7 +423,7 @@ img{
     
     }
     .im11{
-        background-color: antiquewhite;
+         filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
         width: 25vw;
         height: 13vh;
         position: absolute;
@@ -437,7 +435,7 @@ img{
     
     }
     .im12{
-        background-color: antiquewhite;
+         filter: drop-shadow( 0px 15px 10px rgb(6, 7, 8));
         width: 25vw;
         height: 13vh;
         position: absolute;
